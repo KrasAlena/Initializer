@@ -6,8 +6,8 @@ This project is designed to create a new project structure with predefined folde
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/project_initializer.git
-    cd project_initializer
+    git clone https://github.com/KrasAlena/Initializer.git
+    cd Initializer
     ```
 
 2. Create and activate a virtual environment (recommended):
